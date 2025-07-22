@@ -1,6 +1,6 @@
-https://github.com/user-attachments/assets/c88c19e2-6eec-475e-88ac-4fa470a6b912
-
 # 🤖 VocaYou — Your Personal AI Assistant
+
+https://github.com/user-attachments/assets/c88c19e2-6eec-475e-88ac-4fa470a6b912
 
 🔗 Live Project: [https://vocayou.onrender.com](https://vocayou.onrender.com)
 
@@ -158,8 +158,6 @@ Testing is currently manual, but future plans include:
 
 **VocaYou** is a modern, full-stack AI assistant platform designed for seamless interaction through voice and text. With robust authentication, customizable UI, and intelligent AI integration, it offers a complete virtual assistant experience. The architecture is built to scale and offers numerous opportunities for feature expansion.
 
+---
+
 Built with ❤️ using **MERN Stack**, **Gemini AI**, **Web APIs**, and **Cloudinary**.
-
-https://github.com/user-attachments/assets/c88c19e2-6eec-475e-88ac-4fa470a6b912
-
-
